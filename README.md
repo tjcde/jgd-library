@@ -8,8 +8,6 @@
 
 **JGD-library** is a Java library that uses [Graphics2D](https://docs.oracle.com/javase/7/docs/api/java/awt/Graphics2D.html) and [JFrame](https://docs.oracle.com/javase/7/docs/api/javax/swing/JFrame.html). With this library it is easier to create a frame. Since the library works with Graphics2D you have much more possibilities to design the individual components of your frame.
 
-With this library you can definitely spice up your frame workflow. :fire:
-
 ## Getting started
 Create a new `JGDWindow` and initialize it with the `run()` function.
 Note: Don't forget to make it visible.
